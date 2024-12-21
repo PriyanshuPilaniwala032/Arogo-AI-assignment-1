@@ -32,4 +32,4 @@ To set up the Postman agent
 3. Hit send and in the input section the Prediction would be shown if the shipment is "On Time" or "Delayed"
 
 
-![Postman Agent Screenshot](images/agent.png "Postman Agent")
+![Postman Agent Screenshot](images/agent.jpeg "Postman Agent")
